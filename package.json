@@ -1,0 +1,27 @@
+{
+  "name": "ms-number-computer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "development": "node manager.js",
+    "test": "mocha **.spec.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AloisH/ms-number-computer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AloisH/ms-number-computer/issues"
+  },
+  "devDependencies": {
+    "mocha": "^4.0.1",
+    "chai": "^4.1.2"
+  },
+  "dependencies": {
+    "ms-manager": "^0.1.0"
+  },
+  "homepage": "https://github.com/AloisH/ms-number-computer#readme"
+}
